@@ -1,0 +1,2 @@
+#define SMA_SETUP_RESOURCE
+#include "app.rc"

@@ -1,0 +1,44 @@
+[
+  {
+    "Kind": "edge",
+    "Id": "shadow",
+    "FileName": "v2.172.zip",
+    "Url": "https://github.com/lizhi19930671951-code/Sekiro-Mods-Collection/releases/download/yingwu/v2.172.zip"
+  },
+  {
+    "Kind": "edge",
+    "Id": "dawn",
+    "FileName": "V81-1.0.-9.20.zip",
+    "Url": "https://github.com/lizhi19930671951-code/Sekiro-Mods-Collection/releases/download/poxiao/V81-1.0.-9.20.zip"
+  },
+  {
+    "Kind": "edge",
+    "Id": "revival",
+    "FileName": "1.16.1.zip",
+    "Url": "https://github.com/lizhi19930671951-code/Sekiro-Mods-Collection/releases/download/fuxing/1.16.1.zip"
+  },
+  {
+    "Kind": "edge",
+    "Id": "severance",
+    "FileName": "Severance.1.05.3.zip",
+    "Url": "https://github.com/lizhi19930671951-code/Sekiro-Mods-Collection/releases/download/Severance/Severance.1.05.3.zip"
+  },
+  {
+    "Kind": "edge",
+    "Id": "guiying",
+    "FileName": "V4.9.zip",
+    "Url": "https://github.com/lizhi19930671951-code/Sekiro-Mods-Collection/releases/download/guiying/V4.9.zip"
+  },
+  {
+    "Kind": "edge",
+    "Id": "jidao",
+    "FileName": "2.3.zip",
+    "Url": "https://github.com/lizhi19930671951-code/Sekiro-Mods-Collection/releases/download/Jidao/2.3.zip"
+  },
+  {
+    "Kind": "edge",
+    "Id": "ftsoa",
+    "FileName": "ftsoa.rar",
+    "Url": "https://github.com/lizhi19930671951-code/Sekiro-Mods-Collection/releases/download/ftsoa/ftsoa.rar"
+  }
+]
